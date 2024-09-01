@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🐍 Noob amateur Python coder 🤓. CAN only code Python... Just code for fun. 😋
+🐍 Noob amateur Python coder 🤓. Can ONLY code Python... Just code for fun. 😋
 
 📫 Say hi to me if you want(email): "enp1NG9uOUBvdXRsb29rLmNvbQ==".replace("1","5")
